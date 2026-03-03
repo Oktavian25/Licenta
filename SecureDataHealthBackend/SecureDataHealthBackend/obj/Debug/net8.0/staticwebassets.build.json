@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3x0YFCkEjqjOYwjXi8toV2l6S0449nH2vVH1IftuHB0=",
+  "Source": "SecureDataHealthBackend",
+  "BasePath": "_content/SecureDataHealthBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
